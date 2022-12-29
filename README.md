@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ronakpatil1
-- 👀 I’m interested in dsa, and software development(web dev, android dev).
+- 👀 I’m interested in dsa, and software development(web dev).
 - 🌱 I’m currently learning data structures and algorithm.
 - 📫 How to reach me www.linkedin.com/in/ronak-patil-982148220
 
